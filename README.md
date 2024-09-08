@@ -1,6 +1,6 @@
 # Multiplayer Tic-Tac-Toe
 
-This is a real-time multiplayer Tic-Tac-Toe game built using **ReactJS** on the frontend and **NodeJS** with **Express** and **Socket.IO** on the backend. Players can either create a room and invite friends or play with a random opponent using the random matching feature.
+This is a real-time multiplayer Tic-Tac-Toe game built using **ReactJS** on the frontend and **NodeJS** with **Express** and **Socket.IO** on the backend. Players can either create a room and invite other users or play with a random opponent using the random matching feature.
 
 ## Features
 
